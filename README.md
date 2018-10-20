@@ -80,7 +80,7 @@ ECMAScript 스펙에 대해서 자세하게 정리된 책이다.
 
 ![images/7.jpg](images/7.jpg)
 
-[YOU DON'T KNOW JS Github]: https://github.com/getify/You-Dont-Know-JS
+[YOU DON'T KNOW JS Github](https://github.com/getify/You-Dont-Know-JS)
 
 
 
