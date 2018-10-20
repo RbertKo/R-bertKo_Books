@@ -1,14 +1,15 @@
 # Clean Code(클린 코드)
 
-<center>![책 이미지](http://image.kyobobook.co.kr/images/book/large/959/l9788966260959.jpg)</center>
+![책 이미지](http://image.kyobobook.co.kr/images/book/large/959/l9788966260959.jpg)
 
-<center>**저자 :**  로버트 C. 마틴</center>
+**저자 :**  로버트 C. 마틴
 
-<center>**옮김 :** 박재호, 이해영</center>
+**옮김 :** 박재호, 이해영
 
-<center>**원서 번역서 :** Clean Code</center>
+**원서 번역서 :** Clean Code
 
-<center>**리뷰 양식제작 :** [AlbertKo](https://github.com/AlbertKo827/R-bertKo_Books)</center>
+**리뷰 양식제작 :** [AlbertKo](https://github.com/AlbertKo827/R-bertKo_Books)
+
 ------
 
 ## 목차
