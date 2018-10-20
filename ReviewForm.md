@@ -2,6 +2,14 @@
 
 ![책 이미지]()
 
+**저자 :**  로버트 C. 마틴
+
+**옮김 :** 박재호, 이해영
+
+**원서 번역서 :** Clean Code
+
+**리뷰 양식제작 :** [AlbertKo](https://github.com/AlbertKo827/R-bertKo_Books)
+
 저자 : 
 
 ------
