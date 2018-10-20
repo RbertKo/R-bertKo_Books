@@ -24,42 +24,42 @@
 
 1. ## ECMAScript6
 
-   ![images/1.jpg]()
+   ![images/1.jpg](images/1.jpg)
 
 2. ## 함수형 자바스크립트
 
 
 
-   ![images/3.jpg]()
+   ![images/3.jpg](images/3.jpg)
 
 3. ## RxJs
 
-   ![images/2.jpg]()
+   ![images/2.jpg](images/2.jpg)
 
 4. ## 리팩토링 자바스크립트
 
-   ![images/4.jpg]()
+   ![images/4.jpg](images/4.jpg)
 
 5. ## 자바스크립트 패턴과 테스트
 
-   ![images/5.jpg]()
+   ![images/5.jpg](images/5.jpg)
 
 6. ## YOU DON'T KNOW JS Series
 
-   ![images/11.jpg]()
+   ![images/11.jpg](images/11.jpg)
 
-   ![images/6.jpg]()
+   ![images/6.jpg](images/6.jpg)
 
-   ![images/7.jpg]()
+   ![images/7.jpg](images/7.jpg)
 
 7. ## 클린 코드
 
-   ![images/9.jpg]()
+   ![images/9.jpg](images/9.jpg)
 
 8. ## 클린 소프트웨어
 
-   ![images/8.jpg]()
+   ![images/8.jpg](images/8.jpg)
 
 9. ## GoF의 디자인 패턴
 
-![images/10.jpg]()
+![images/10.jpg](images/10.jpg)
